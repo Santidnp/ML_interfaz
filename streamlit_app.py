@@ -4,7 +4,7 @@ Created on Wed Nov 24 00:14:36 2021
 
 @author: sngh9
 """
-import zipfile
+
 import streamlit as st
 import cv2 
 import matplotlib.pyplot as plt
